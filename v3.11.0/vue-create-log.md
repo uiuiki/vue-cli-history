@@ -1,4 +1,5 @@
-vue create myvueproject
+```
+$ vue create myvueproject
 
 
 Vue CLI v3.11.0
@@ -41,3 +42,4 @@ added 35 packages from 28 contributors, updated 2 packages and moved 9 packages 
  $ cd myvueproject
  $ npm run serve
 
+```
